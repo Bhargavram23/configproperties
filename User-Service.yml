@@ -1,4 +1,4 @@
-msg: Janaki Husband User
+msg: Janaki Pati User
 spring:
   datasource:
     url: jdbc:h2:mem:testdb
