@@ -1,3 +1,4 @@
+msg: Janaki Husband User
 spring:
   datasource:
     url: jdbc:h2:mem:testdb
@@ -24,4 +25,3 @@ management:
     web:
       exposure:
         include: '*'
-msg: Janaki Husband User
